@@ -18,6 +18,9 @@
 6. Do not mark work `DONE` before independent review and evidence.
 7. Do not push, merge, publish or deploy without explicit approval.
 8. On conflict, stop the transition and record it.
+9. Después de cada fase, acción o comando, realizar inmediatamente un QA robusto.
+10. Explicaciones de lo hecho y del QA al estilo caverman (cortas, telegráficas, sin relleno) para no malgastar tokens.
+
 
 ## Project commands
 
